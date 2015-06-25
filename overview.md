@@ -4,7 +4,11 @@
 * ember-cli style guide, [ember-cli/ARCHITECTURE.md#style-guide](https://github.com/ember-cli/ember-cli/blob/master/ARCHITECTURE.md#style-guide)
 * Google JavaScript Style Guide [google/styleguide/javascriptguide.xml](http://google.github.io/styleguide/javascriptguide.xml)
 * https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
+
+## Opionated
+
 * https://github.com/feross/standard
+* https://github.com/johnpapa/angular-styleguide
 
 ## Reviews
 
