@@ -1,3 +1,7 @@
+## Tools
+
+* [Detecting and Automatically Fixing JavaScript Code Style](http://ariya.ofilabs.com/2015/06/detecting-and-automatically-fixing-javascript-code-style.html) by Ariya Hidayat, June 28, 2015.
+
 ## Style Guides
 
 * Airbnb JavaScript Style Guide, [airbnb/javascript](https://github.com/airbnb/javascript)
